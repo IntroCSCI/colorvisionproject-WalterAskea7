@@ -1,4 +1,4 @@
-//Author: PUT YOUR NAME HERE
+//Author: Walter Askea
 #include <iostream>
 using namespace std;
 

@@ -15,7 +15,7 @@
 
 ## Developer
 
-!!!Replace with your name!!!
+Walter Askea
 
 ## Example
 
